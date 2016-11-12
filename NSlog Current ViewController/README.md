@@ -1,0 +1,4 @@
+# UIViewController+PrintCurrentViewController
+打印当前ViewController
+使用方式:
+1.将文件加载后拖到项目中即可
